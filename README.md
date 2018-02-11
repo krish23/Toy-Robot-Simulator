@@ -1,5 +1,7 @@
 # Toy Robot Simulator
 
+The project include UI for press command and automated testing functions.
+
 ## Description
 
 1) The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.
