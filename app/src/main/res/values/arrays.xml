@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>NORTH</item>
+        <item>SOUTH</item>
+        <item>EAST</item>
+        <item>WEST</item>
+    </string-array>
+</resources>
